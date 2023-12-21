@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function PerfectWedding() {
   return (
-    <div className="flex flex-row justify-between px-[200px] pt-[39px] pb-[86px]">
+    <div className="flex flex-row justify-between bg-white px-[200px] pt-[39px] pb-[86px]">
       <div>
         <p>Perfect for weddings or anniversaries</p>
         <div>

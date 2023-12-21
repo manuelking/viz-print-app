@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function MakeYourHome() {
   return (
-    <div className="w-full flex flex-row pt-[88px] pb-[115px] px-[200px] justify-between">
+    <div className="w-full flex flex-row bg-white pt-[88px] pb-[115px] px-[200px] justify-between">
       <div>
         <p className="font-bold text-[40px] leading-[52px] text-black pb-[14px] max-w-[386px]">
           Make your house, your home

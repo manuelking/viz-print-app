@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function InterestedSigns() {
   return (
-    <div className="w-full flex flex-col px-[200px] py-[44px] bg-white">
+    <div className="w-full flex flex-col px-[200px] py-[44px] bg-tertiary">
       <div className="space-y-[20px] pb-[20px]">
         <p className="font-bold text-[36px] leading-[46.8px] text-black">
           Interested?

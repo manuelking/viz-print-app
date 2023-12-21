@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function MemorialPlaques() {
   return (
-    <div className="w-full flex flex-col">
+    <div className="w-full flex flex-col bg-white">
       <div className="flex flex-row justify-between px-[200px] py-[120px]">
         <div>
           <p className="font-medium text-[36px] leading-[46.8px] text-black">
